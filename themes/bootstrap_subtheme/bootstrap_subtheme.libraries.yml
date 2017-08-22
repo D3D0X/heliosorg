@@ -1,0 +1,13 @@
+global-styling:
+  css:
+    theme:
+     css/html.css: {}
+     css/overrides.min.css: {}
+     css/style.css: {}
+     css/bootstrap.min.css: {}
+     css/animate.css: {}
+  js:
+    js/jquery.waypoints.min.js: {}
+    js/jquery.parallax.js: {}
+    js/customize.js: {}
+    js/bootstrap.min.js: {}
