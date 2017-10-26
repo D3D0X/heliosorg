@@ -18,7 +18,7 @@ class JConfig {
 	public $db = 'sparcnet_jo6000';
 	public $dbprefix = 'pgwkj_';
 	public $live_site = '';
-	public $secret = 'Sw0P0pgOaI9BIhs3';
+	public $secret = 'SECRET';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'http://help.joomla.org/proxy/index.php?option=com_help&keyref=Help{major}{minor}:{keyref}';
